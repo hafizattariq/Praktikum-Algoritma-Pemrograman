@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1650458251 source:c:\kuliah\sem 2\alpro\praktikum\tugasprak5\searching\src\headers.cpp
+	"Headers.h"
+
+1650458251 c:\kuliah\sem 2\alpro\praktikum\tugasprak5\searching\include\headers.h
+
+1650461508 source:c:\kuliah\sem 2\alpro\praktikum\tugasprak5\searching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Searching.h"
+
+1650462813 c:\kuliah\sem 2\alpro\praktikum\tugasprak5\searching\include\searching.h
+	<stdbool.h>
+
+1650462579 source:c:\kuliah\sem 2\alpro\praktikum\tugasprak5\searching\searching.c
+	<stdio.h>
+	"Searching.h"
+	<stdbool.h>
+
